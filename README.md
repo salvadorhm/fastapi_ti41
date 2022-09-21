@@ -47,3 +47,5 @@ $ git commit -m "UPDATED estructura del proyecto"
 ```bash
 $ git push -u origin main
 ```
+
+TEXTO NUEVO DESDE GITHUB PARA PROBAR EL COMANDO PULL
