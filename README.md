@@ -49,3 +49,5 @@ $ git push -u origin main
 ```
 
 TEXTO NUEVO DESDE GITHUB PARA PROBAR EL COMANDO PULL
+
+desde vscode.dev in github reporeporeporeporeporeporepo
